@@ -4,7 +4,7 @@
 [I see 5 Os with 1.5 in space, the color is green, and the type is scattered]
 
 ## What I Think This Means
-[5 Os in a straight line]
+[tables in line]
 
 ## What This Could Be
 [..]
